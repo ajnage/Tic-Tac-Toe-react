@@ -5,5 +5,6 @@
  - Stores a game's history as a game progresses,
  - Allows players to review a game's history and see previous versions of a game's board.
 
-Link to game below:
+Link to game :
 https://tic-tac-toe-r3.onrender.com/
+Note: it can take some time for the server to load
